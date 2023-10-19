@@ -42,11 +42,8 @@
 
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lexi4eg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
