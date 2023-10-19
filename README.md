@@ -57,7 +57,7 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelixPrattes)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixPrattes&hide_progress=true)
+
 
 <!-- Footer -->
 <p align="center">
