@@ -12,8 +12,8 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin"></a>
+ 
+  <a href="https://www.linkedin.com/in/felix-prattes/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin"></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail"></a>
 </p>
 
