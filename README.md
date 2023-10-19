@@ -33,9 +33,9 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  
     <img src="https://skillicons.dev/icons?i=git,docker,c,angular,aws,cs,cpp,firebase,idea,js,java,nextjs,nodejs,nuxtjs,postgres,prisma,py,react,supabase,swift,tailwind,ts,vue,vim" />
-  </a>
+  
 </p>
 
 <!-- Languages & Tools -->
