@@ -42,9 +42,19 @@
 
 
 <!-- GitHub Stats -->
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
-</p>
+
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true"
+    media="(prefers-color-scheme: onedark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true" />
+</picture>
+
 
 
 
