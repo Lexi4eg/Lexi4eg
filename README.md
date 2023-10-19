@@ -41,14 +41,20 @@
 <!-- Languages & Tools -->
 
 
-<!-- GitHub Streak -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-<!-- Visitor Counter -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Counter">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lexi4eg&theme=dark" alt="GitHub Streak">
+</p>
+
+<!-- Commit History -->
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/yourusername/yourusername?color=green&label=Commit%20Streak&logo=github&logoColor=white&style=flat-square" alt="Commit Streak">
+  <img src="https://img.shields.io/github/commit-activity/y/yourusername/yourusername?color=green&label=Total%20Commits&logo=github&logoColor=white&style=flat-square" alt="Total Commits">
 </p>
 
 <!-- Footer -->
