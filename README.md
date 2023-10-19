@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lexi4eg&show_icons=true" />
 </picture>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FelixPrattes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
