@@ -1,13 +1,14 @@
-### Hi there 👋
+
+
 <!-- Title -->
 <h1 align="center">
   <br>
-  Hi, I'm [Your Name]
+  Hi, I'm Felix
   <br>
 </h1>
 
 <!-- Subtitle -->
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h3 align="center">A passionate Student from Graz</h3>
 
 <!-- Social Icons -->
 <p align="center">
@@ -19,7 +20,7 @@
 <!-- About Me -->
 <p align="center">
   <br>
-  Hi, I'm [Your Name], and I'm passionate about [Your Interests]. I'm currently working as a [Your Job Title] in [Your Current Company]. I love coding and learning new technologies, and I'm always looking for exciting projects to work on. You can find some of my work below!
+  Hi, I'm Felix , and I'm passionate about new Technologies and Machine Learning. I currently go to School at HTL in Graz . I love coding and learning new technologies, and I'm always looking for exciting projects to work on. 
   <br>
 </p>
 
