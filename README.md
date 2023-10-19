@@ -29,6 +29,8 @@
 
 <!-- GitHub Stats -->
 
+<p>Language and Tools i have worked with</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,16 +39,7 @@
 </p>
 
 <!-- Languages & Tools -->
-<p align="center">
-  <br>
-  <b>Languages and Tools:</b>
-  <br>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <!-- Add more as needed -->
-  <br>
-</p>
+
 
 <!-- GitHub Streak -->
 <p align="center">
