@@ -12,7 +12,7 @@
 
 <!-- Social Icons -->
 <p align="center">
- 
+ <p></p>
   <a href="https://www.linkedin.com/in/felix-prattes/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin"></a>
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail"></a>
 </p>
