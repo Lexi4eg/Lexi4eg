@@ -28,14 +28,11 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-  <br>
-</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,angular, aws, cs, cpp, firebase, idea, js, java, nextjs, nodejs, nustjs, postgres, risma, py, react, supabase, swift, tailwind, ts, vue, vim" />
   </a>
 </p>
 
