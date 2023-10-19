@@ -29,7 +29,7 @@
 
 <!-- GitHub Stats -->
 
-<p>Language and Tools i have worked with</p>
+<h3 align="center">Language and Tools i have worked with</h3>
 
 
 <p align="center">
