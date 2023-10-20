@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<!-- Subtitle -->
+
 <h3 align="center">A passionate Student from Graz</h3>
 
 <!-- Social Icons -->
