@@ -15,7 +15,7 @@
  <div align="center">
   <a href="https://www.linkedin.com/in/felix-prattes/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin"></a>
   <a href="mailto:felix.prattes@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail"></a>
-   </div>
+   </div> 
 </p>
 
 <!-- About Me -->
