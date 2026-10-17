@@ -21,7 +21,7 @@
 <!-- About Me -->
 <p align="center">
   <br>
-  Hi, I'm Felix , and I'm passionate about new Technologies and Machine Learning. I currently go to School at HTL in Graz . I love coding and learning new technologies, and I'm always looking for exciting projects to work on. 
+  Hi, I'm Felix , and I'm passionate about new Technologies and Machine Learning. I currently go to School at TUM. I love coding and learning new technologies, and I'm always looking for exciting projects to work on. 
   <br>
 </p>
 
